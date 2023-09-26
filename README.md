@@ -1,2 +1,2 @@
 # Hello-world
-Coding is changing of Tecnology
+Coding is changing of Technology
